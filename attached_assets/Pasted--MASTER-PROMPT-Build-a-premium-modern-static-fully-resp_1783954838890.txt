@@ -1,0 +1,691 @@
+# MASTER PROMPT
+
+Build a premium, modern, static, fully responsive website for the startup competition **"Biznovator - Innovation Seeds Tomorrow"** hosted as part of **SPROUT IT 2025** by **Symbiosis Centre for Information Technology (SCIT), Pune**.
+
+The website should look like it belongs to a global startup summit (similar quality to Apple, Stripe, Linear, Vercel, Notion, Framer, and Web Summit websites).
+
+---
+
+## Tech Stack
+
+Use only:
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+No backend.
+
+No React.
+
+No frameworks.
+
+No Bootstrap.
+
+No Tailwind.
+
+Everything should work by simply opening index.html.
+
+Organize files as:
+
+/index.html
+/style.css
+/script.js
+/assets/
+images/
+icons/
+
+---
+
+## Design Style
+
+Theme:
+
+Future Technology + Startup + Innovation + AI + Venture Capital
+
+The UI should feel like:
+
+* Apple
+* Stripe
+* Linear
+* Vercel
+* Framer
+* OpenAI
+* GitHub Universe
+
+Avoid bright colors.
+
+Use elegant dark gradients.
+
+Use glassmorphism.
+
+Use soft glow effects.
+
+Use smooth shadows.
+
+Rounded corners (16–24px).
+
+Modern typography.
+
+Minimalistic.
+
+Premium.
+
+---
+
+## Color Palette
+
+Background:
+
+#050816
+
+Secondary:
+
+#0F172A
+
+Cards:
+
+rgba(255,255,255,0.06)
+
+Accent Colors:
+
+Electric Blue
+#3B82F6
+
+Neon Cyan
+#06B6D4
+
+Purple
+#7C3AED
+
+Pink Glow
+#EC4899
+
+Success
+#22C55E
+
+Text
+
+Primary
+#FFFFFF
+
+Secondary
+#94A3B8
+
+Muted
+#64748B
+
+Buttons
+
+Gradient
+
+#3B82F6 → #7C3AED
+
+Hover
+
+Glow animation
+
+---
+
+## Typography
+
+Google Font:
+
+Space Grotesk
+
+Headings:
+
+700 weight
+
+Body:
+
+400–500
+
+Large Hero Heading:
+
+60–72px desktop
+
+42px tablet
+
+32px mobile
+
+---
+
+## Background
+
+Animated gradient
+
+Moving particles
+
+Floating blurred circles
+
+Grid overlay
+
+Very subtle animations
+
+---
+
+## Website Sections
+
+### 1. Hero Section
+
+Huge headline
+
+"Your First Pair of Wings to Build the Startup of Your Dreams"
+
+Subheading:
+
+Pitch.
+Build.
+Innovate.
+Win.
+
+Buttons:
+
+Register Now
+
+Explore Event
+
+Right side:
+
+3D illustration of startup ecosystem
+
+Floating cards
+
+AI
+
+Innovation
+
+Funding
+
+MVP
+
+Pitch
+
+Investors
+
+Animated glowing blobs.
+
+---
+
+### 2. About Biznovator
+
+Explain:
+
+Biznovator is a startup innovation competition under SPROUT IT 2025 where students transform ideas into scalable ventures through multiple evaluation rounds ending in a live investor pitch.
+
+Mention:
+
+Hosted by SCIT Pune
+
+Open for UG & PG
+
+Cross-college teams allowed
+
+Team size 1–5
+
+Offline Finale
+
+---
+
+### 3. Event Highlights
+
+Beautiful animated cards.
+
+Cards:
+
+Startup Pitch
+
+Prototype Demo
+
+Business Model
+
+Mentorship
+
+Funding Opportunity
+
+Networking
+
+Investor Panel
+
+Certificates
+
+Prizes
+
+Icons on every card.
+
+Hover lift animation.
+
+---
+
+### 4. Timeline
+
+Vertical futuristic timeline.
+
+Round 1
+
+Abstract Submission
+
+Problem
+
+Solution
+
+Target Market
+
+Scalability
+
+Deadline
+
+24 August
+
+↓
+
+Round 2
+
+Business Proposal
+
+Executive Summary
+
+Business Model Canvas
+
+Revenue Strategy
+
+↓
+
+Round 3
+
+Prototype Demo
+
+Video Submission
+
+2–3 Minutes
+
+MVP
+
+↓
+
+Round 4
+
+Grand Finale
+
+7-Minute Pitch
+
+3-Minute Q&A
+
+Industry Experts
+
+Investors
+
+---
+
+### 5. Eligibility
+
+Responsive cards
+
+Engineering Students
+
+MBA Students
+
+Undergraduate
+
+Postgraduate
+
+Full-time Students
+
+Team Size
+
+1–5
+
+Cross College Allowed
+
+---
+
+### 6. Rewards
+
+Premium prize cards
+
+Winner
+
+₹20,000+
+
+Funding Opportunity
+
+Certificate
+
+First Runner Up
+
+₹15,000+
+
+Funding Opportunity
+
+Certificate
+
+Participation
+
+Certificate
+
+Glassmorphism
+
+Gold
+
+Silver
+
+Blue gradients.
+
+---
+
+### 7. Why Participate?
+
+Animated icon grid.
+
+Learn Startup Thinking
+
+Build MVP
+
+Investor Exposure
+
+Networking
+
+Mentorship
+
+Pitch Practice
+
+Validation
+
+Funding Chances
+
+Leadership
+
+Innovation
+
+---
+
+### 8. Statistics
+
+Animated counters
+
+277+
+
+Participants
+
+4
+
+Rounds
+
+20K+
+
+Prize Pool
+
+100%
+
+Innovation
+
+---
+
+### 9. Gallery
+
+Modern masonry layout.
+
+Use placeholders.
+
+Hover zoom.
+
+---
+
+### 10. FAQ
+
+Accordion animation.
+
+Questions like:
+
+Who can participate?
+
+Can cross-college teams join?
+
+Is prototype mandatory?
+
+What is team size?
+
+Is there funding?
+
+Certificates?
+
+---
+
+### 11. Contact
+
+Modern glass card.
+
+Organizer
+
+SCIT Pune
+
+Location
+
+Symbiosis Centre for Information Technology
+
+Rajiv Gandhi Infotech Park
+
+Hinjewadi Phase 1
+
+Pune
+
+Button
+
+View Location
+
+Email placeholder
+
+Phone placeholder
+
+---
+
+### 12. Footer
+
+Minimal
+
+Quick Links
+
+Timeline
+
+Eligibility
+
+Rewards
+
+Contact
+
+Social Icons
+
+Copyright
+
+---
+
+## Animations
+
+Use only CSS and JavaScript.
+
+Include:
+
+Fade in
+
+Slide up
+
+Scroll reveal
+
+Hover glow
+
+Gradient animation
+
+Button ripple
+
+Floating cards
+
+Counter animation
+
+Timeline progress animation
+
+Smooth scrolling
+
+Parallax hero
+
+Mouse movement glow
+
+Loading animation
+
+Glass reflections
+
+---
+
+## Responsiveness
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+Everything should resize perfectly.
+
+Use CSS Grid and Flexbox.
+
+No horizontal scrolling.
+
+---
+
+## Performance
+
+Optimized images.
+
+Lazy loading.
+
+Semantic HTML.
+
+Accessible colors.
+
+SEO friendly.
+
+Fast loading.
+
+---
+
+## JavaScript Features
+
+Sticky navbar
+
+Scroll progress bar
+
+Mobile hamburger menu
+
+Animated counters
+
+FAQ accordion
+
+Scroll reveal
+
+Back-to-top button
+
+Typing animation in hero
+
+Particle background
+
+Smooth scrolling
+
+---
+
+## Navbar
+
+Transparent initially.
+
+Turns glass on scroll.
+
+Logo:
+
+Biznovator
+
+Links
+
+Home
+
+About
+
+Timeline
+
+Rewards
+
+FAQ
+
+Contact
+
+Register
+
+---
+
+## Buttons
+
+Rounded
+
+Gradient
+
+Hover Glow
+
+Scale animation
+
+Shadow
+
+---
+
+## Cards
+
+Glassmorphism
+
+Backdrop blur
+
+Gradient borders
+
+Soft shadows
+
+Hover elevation
+
+---
+
+## Extra Effects
+
+Floating startup keywords
+
+AI
+
+Innovation
+
+Funding
+
+Prototype
+
+MVP
+
+Investor
+
+Pitch
+
+Scale
+
+Startup
+
+Technology
+
+Use subtle floating animation.
+
+---
+
+## Overall Feel
+
+The website should feel like a futuristic startup summit.
+
+Think:
+
+Apple Event × Web Summit × TechCrunch Disrupt × OpenAI × Stripe.
+
+Visitors should immediately feel they are entering a premium innovation competition.
+
+Deliver production-quality HTML, CSS, and JavaScript with clean comments, modular code, responsive layouts, and professional UI/UX. Ensure all animations are smooth, lightweight, and performant.
